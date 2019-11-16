@@ -1,0 +1,32 @@
+{
+  "name": "redux-rx-creator",
+  "version": "0.1.2",
+  "author": "zcating",
+  "license": "ISC",
+  "description": "A library that can help you create the redux actions & reducers easily.",
+  "main": "./dist/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "dependencies": {
+    "redux": "^4.0.4",
+    "tslint": "^5.20.1",
+    "typescript": "^3.7.2",
+    "webpack": "^4.41.2"
+  },
+  "files": [
+    "dist",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "Redux",
+    "Creator"
+  ]
+}
