@@ -1,6 +1,6 @@
 {
   "name": "redux-rx-creator",
-  "version": "0.1.3",
+  "version": "0.1.3a",
   "author": "zcating",
   "license": "ISC",
   "description": "A library that can help you create the redux actions & reducers easily.",
