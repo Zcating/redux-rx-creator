@@ -12,9 +12,9 @@
     "build": "npx tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  
   "dependencies": {
     "redux": "^4.0.4",
+    "rxjs": "^6.5.3",
     "tslint": "^5.20.1",
     "typescript": "^3.7.2",
     "webpack": "^4.41.2"
