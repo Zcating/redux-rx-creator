@@ -15,3 +15,7 @@ export {
     on,
     On
 } from './reducer-creator';
+
+export {
+    ofActionType
+} from './ofActionType';

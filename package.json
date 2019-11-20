@@ -1,6 +1,6 @@
 {
   "name": "redux-rx-creator",
-  "version": "0.1.3a",
+  "version": "0.1.4",
   "author": "zcating",
   "license": "ISC",
   "description": "A library that can help you create the redux actions & reducers easily.",
@@ -16,8 +16,7 @@
     "redux": "^4.0.4",
     "rxjs": "^6.5.3",
     "tslint": "^5.20.1",
-    "typescript": "^3.7.2",
-    "webpack": "^4.41.2"
+    "typescript": "^3.7.2"
   },
   "files": [
     "dist",
